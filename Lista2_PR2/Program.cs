@@ -157,3 +157,82 @@
 
 
 //Exercicio 6
+
+//using System;
+//using System.Security.AccessControl;
+
+//float angulo1, angulo2, angulo3, modelot;
+
+//Console.WriteLine("Digite o valor do primeiro ângulo:");
+//angulo1 = float.Parse(Console.ReadLine());
+
+//Console.WriteLine("Digite o valor do segundo ângulo:");
+//angulo2 = float.Parse(Console.ReadLine());
+
+//Console.WriteLine("Digite o valor do terceiro ângulo:");
+//angulo3 = float.Parse(Console.ReadLine());
+
+//if (angulo1 == 90° | angulo2 == 90° | angulo3 | 90°)
+
+//    Console.WriteLine("o triângulo é um triângulo retângulo");
+
+//else if (angulo1 > 90° && angulo2 > 90° && angulo3 > 90°)
+
+//    Console.WriteLine(" O triângulo é obtusangulo");
+
+//else 
+//    Console.WriteLine("O triângulo é acutângolo");
+
+
+
+
+
+//Exercicio7
+
+//using System;
+
+//float n1, n2, n3;
+
+//Console.WriteLine("digite o primeiro valor:");
+//n1 = float.Parse(Console.ReadLine());
+
+//Console.WriteLine("digite o segundo valor:");
+//n2 = float.Parse(Console.ReadLine());
+
+//Console.WriteLine("digite o terceiro valor:");
+//n3 = float.Parse(Console.ReadLine());
+
+
+
+
+
+
+//Exercicio8
+
+//using System;
+
+//float ano, resto;
+
+//Console.WriteLine("Digite o ano:");
+
+//resto = ano % 4;
+
+//if (resto == 0)
+//    Console.WriteLine("o ano é bessexto");
+
+//else
+//    Console.WriteLine("O ano não é bissexto");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
